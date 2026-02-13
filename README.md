@@ -2,12 +2,10 @@
 
 Uma versão do clássico jogo de arcade feita apenas usando a linguagem C
 
-![2026-02-08 10-46-47 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/2844588f-5778-4796-89d9-0885aeba780d)
-
 ## 📌 Índice 
 * [Tecnologias utilizadas](#-tecnologias-utilizadas)
-* [Como instalar?](#-como-instalar?)
-* [Como jogar?](#-como-jogar?)
+* [Como instalar?](#-como-instalar-)
+* [Como jogar?](#-como-jogar-)
   
 ## 🔨 Tecnologias utilizadas
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
