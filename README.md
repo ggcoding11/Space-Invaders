@@ -4,8 +4,8 @@ Uma versão do clássico jogo de arcade feita apenas usando a linguagem C
 
 ## 📌 Índice 
 * [Tecnologias utilizadas](#-tecnologias-utilizadas)
-* [Como instalar?](#-como-instalar-)
-* [Como jogar?](#-como-jogar-)
+* [Como instalar?](#-como-instalar)
+* [Como jogar?](#-como-jogar)
   
 ## 🔨 Tecnologias utilizadas
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
