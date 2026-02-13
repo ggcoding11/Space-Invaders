@@ -2,6 +2,9 @@
 
 Uma versão do clássico jogo de arcade feita apenas usando a linguagem C.
 
+![Screen recording 3 (online-video-cutter com)](https://github.com/user-attachments/assets/d0cafcf1-4189-48d8-9bf4-a1c63416b8e8)
+
+
 ## 📌 Índice 
 * [Tecnologias utilizadas](#-tecnologias-utilizadas)
 * [Como instalar?](#-como-instalar)
