@@ -1,6 +1,6 @@
 # Space Invaders (C)
 
-Uma versão do clássico jogo de arcade feita apenas usando a linguagem C
+Uma versão do clássico jogo de arcade feita apenas usando a linguagem C.
 
 ## 📌 Índice 
 * [Tecnologias utilizadas](#-tecnologias-utilizadas)
